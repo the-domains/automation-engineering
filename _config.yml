@@ -1,7 +1,7 @@
 name: Automation Engineering
 favicon: null
-layout_spectrum: 0.18353108875453472
-typography_spectrum: 0.6438677285332233
+layout_spectrum: 0.66571
+typography_spectrum: 0.05475
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.302451163996011
-  lightness: 0.7471093987114727
-  saturation: 0.8577932140324265
-  rhythmicContrast: 0.5700022450182587
+    - '#000000'
+    - '#ffcd8c'
+    - '#fefaf1'
+    - '#324033'
+    - '#a97642'
+  brandStrength: 0.1875
+  lightness: 0.375
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
