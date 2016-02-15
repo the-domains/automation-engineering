@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Security in a DevOps world doesn't have to be difficult.  In fact, you can automate most of your environment.  But of course, there's a catch."
-datePublished: '2016-02-15T19:09:16.930Z'
-dateModified: '2016-02-15T19:07:55.418Z'
+datePublished: '2016-02-15T19:15:46.903Z'
+dateModified: '2016-02-15T19:15:43.693Z'
 title: Automation as a Security Tool
 author: []
+sourcePath: _posts/2016-02-15-automation-as-a-security-tool.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-15-automation-as-a-security-tool.md
-published: true
 url: automation-as-a-security-tool/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1573fdb2-ce09-4582-9793-6cfb48753835.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7723457ef2bc2c1980e531c8152e53e4a7d2b53.jpg)
 
 **The Rise of Automation**
 
