@@ -1,0 +1,28 @@
+name: Automation Engineering
+favicon: null
+layout_spectrum: 0.18353108875453472
+typography_spectrum: 0.6438677285332233
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.302451163996011
+  lightness: 0.7471093987114727
+  saturation: 0.8577932140324265
+  rhythmicContrast: 0.5700022450182587
+purpose: []
