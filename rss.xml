@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Automation Engineering]]></title>
+        <description><![CDATA[Automation Engineering]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 19:09:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Automation as a Security Tool]]></title>
+            <description><![CDATA[<article><h1>Automation as a Security Tool</h1><p>The Rise of Automation</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41b35d3ce9f7ec6bbfb8ce6418a790c1cde61f04.jpg"></article>]]></description>
+            <link>undefinedautomation-as-a-security-tool/index.html</link>
+            <guid isPermaLink="false">8bc7b893-8319-4709-969a-cb8ed1130e4b</guid>
+            <pubDate>Mon, 15 Feb 2016 19:09:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
